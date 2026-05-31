@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文 DOCX 编辑"
+  short_description: "安全编辑中文 Word 模板，保留排版与结构。"
+  default_prompt: "Use $chinese-docx-editing to fill this Chinese Word document while preserving untouched sections and verifying the layout."
