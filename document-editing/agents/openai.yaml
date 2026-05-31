@@ -1,0 +1,4 @@
+interface:
+  display_name: "Document Editing"
+  short_description: "Safely edit Word templates and reports with structural anchors."
+  default_prompt: "Use $document-editing to fill this Word document while preserving untouched sections and verifying the layout."
