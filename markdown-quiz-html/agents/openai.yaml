@@ -1,0 +1,7 @@
+interface:
+  display_name: "Markdown Quiz HTML Generator"
+  short_description: "Generate quiz HTML and answer files from reviewed markdown"
+  default_prompt: "Use $markdown-quiz-html to turn a reviewed markdown question bank into a self-contained quiz HTML page and a companion answer file."
+
+policy:
+  allow_implicit_invocation: true
