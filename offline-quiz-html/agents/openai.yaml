@@ -1,0 +1,7 @@
+interface:
+  display_name: "Offline Quiz HTML"
+  short_description: "Build offline quiz HTML from markdown or XLSX banks"
+  default_prompt: "Use $offline-quiz-html to turn a reviewed markdown bank or XLSX question bank into a self-contained offline quiz page."
+
+policy:
+  allow_implicit_invocation: true

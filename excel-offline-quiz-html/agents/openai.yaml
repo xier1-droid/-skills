@@ -1,0 +1,7 @@
+interface:
+  display_name: "Excel Offline Quiz HTML (Legacy)"
+  short_description: "Legacy XLSX quiz entry point"
+  default_prompt: "Use $excel-offline-quiz-html only when you need the legacy XLSX quiz entry point; otherwise prefer $offline-quiz-html."
+
+policy:
+  allow_implicit_invocation: true

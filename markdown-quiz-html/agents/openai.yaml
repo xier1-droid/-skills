@@ -1,7 +1,7 @@
 interface:
-  display_name: "Markdown Quiz HTML Generator"
-  short_description: "Generate quiz HTML and answer files from reviewed markdown"
-  default_prompt: "Use $markdown-quiz-html to turn a reviewed markdown question bank into a self-contained quiz HTML page and a companion answer file."
+  display_name: "Markdown Quiz HTML (Legacy)"
+  short_description: "Legacy markdown quiz entry point"
+  default_prompt: "Use $markdown-quiz-html only when you need the legacy markdown quiz entry point; otherwise prefer $offline-quiz-html."
 
 policy:
   allow_implicit_invocation: true
