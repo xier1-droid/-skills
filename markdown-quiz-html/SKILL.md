@@ -54,3 +54,7 @@ Use this skill for quiz banks that follow a repeatable structure such as `group 
 - Keep the implementation simple unless the user asks for richer quiz features.
 - Prefer one clean HTML file over a multi-file frontend unless the task clearly needs more.
 - If the markdown structure is inconsistent, normalize only the minimum needed to keep the quiz usable.
+
+## References
+
+- See [quiz-html-workflow.md](references/quiz-html-workflow.md) for a compact workflow and validation checklist.
